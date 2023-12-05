@@ -1,0 +1,10 @@
+pyscreenshot
+numpy
+tensorflow
+keras
+skimage
+os
+PIL (Python Imaging Library)
+matplotlib.pyplot
+gtts
+IPython.display
